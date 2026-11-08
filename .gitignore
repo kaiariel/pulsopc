@@ -1,0 +1,17 @@
+# Ejecutables compilados: se publican en Releases, no en el repositorio
+*.exe
+*.pdb
+
+# Salidas de pruebas y respaldos locales
+pruebas/
+respaldos/
+informes/
+resultado*.txt
+autotest*.txt
+
+# Editores
+.vs/
+.vscode/
+*.user
+Thumbs.db
+desktop.ini
